@@ -17,11 +17,11 @@ const IndexPage = () => (
       However, what intrigued me more is GatsbyJS.
     </p>
     <p>
-      I have never used Gatsby before and I went on to try it.
+      I have never used <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> before and I went on to try it.
       I mean, in the end I still learn something new, so why not.
     </p>
     <p>
-      I also have never used or heard about Netlify before.
+      I also have never used or heard about <a href="https://www.netlify.com/" target="_blank">Netlify</a> before.
       So it is also worth a try.
     </p>
     <p>Regardless, I don't consider myself a pro and in fact, it is more of a newbie.</p>
